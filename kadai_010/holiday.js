@@ -8,6 +8,6 @@ for(let i = 0; i < holidays.length; i++) {
 // while文の場合
 let i = 0;
 while (i < holidays.length) {
-  console.log(holidays[i]);  // まずは現在の位置の要素を出力
-  i++; // その後でインクリメント
+  console.log(holidays[i]);
+  i++;
 }
